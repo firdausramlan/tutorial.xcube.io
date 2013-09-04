@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e5aa8a7-8dc2-4a53-8515-74c9cc4516c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/1820EN_04_Code.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/login/LoginFormController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jasmine-1.3.0/MIT.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03_basic_accordion_directive/template/accordion/accordion-group.html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03_basic_accordion_directive/template/accordion/accordion-group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03_basic_accordion_directive/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03_basic_accordion_directive/accordion.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/01 - registering providers - module as a variable/admin-projects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/02 - registering providers - getting a module instance/admin-projects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/03 - registering providers - chaining calls/admin-projects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/04 - config blocks - as a third argument/admin-projects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/05 - config blocks - config method/admin-projects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/08 - testing - a controller test/admin-projects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/08 - testing - a controller test/admin-projects.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/1.0.2/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/1.0.4/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/1.0.2/angular-scenario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/1.0.4/angular-scenario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/1.0.2/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/1.0.4/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/08 - DI - module with a controller/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/09 - DI - notifications service as a service and archive as value/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/10 - DI - notifications service as a factory/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/11 - DI - notifications service as a factory with constants/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/12 - DI - notifications service as a provider/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/13 - DI - run blocks - uptime example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/14 - Modules and services - one big bag of services - step 1/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/15 - Modules and services - one big bag of services - step 2/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/16 - Modules and services - one big bag of services - services override/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/06 - simple select directive (gTeyHo)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/07 - complex select directive examples (LQDmOP)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/08 - complex select directive object based examples (mJD27D)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/09 - empty select option (3W1kwP)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/10 - hidden empty option (l9NZMw)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/11 - select and object equivalence (7iORrm)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/12 - validation errors (LGmB4E)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/13 - disabling the save button (4Xt1OL)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/16 - repeated forms (YE1z2P)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/17 - validating repeated forms (lxxGBz)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/19 - ng-submit (vDBkHP)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/20 - submit with ng-click (DPWM6Y)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/21 - reset the form (TTTBXe)/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/02_ngSanitize/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/01_alert_directive/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03_basic_accordion_directive/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/07 - testing - services - a notificationsArchive test/archive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/07 - testing - services - a notificationsArchive test/archive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/08 -filters - array filters full example/arrayFilters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/08 -filters - array filters full example/arrayFilters.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/atlassian-ide-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/authorization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/tests/security/authorization.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/06 - tuning cpu - loops - timeout and the clock directive/clock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/03 - cors delete/cors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/08 - custom resource/customResource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/01- http basics/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/js/datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/07 - tuning memory - deep watches/deepWatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/02_button_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/03_pagination_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/04_validate-equals_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/05_unique-email_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/06_jQuery_datepicker_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/01_alert_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/02_if_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/02_button_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/03_pagination_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/04_validate-equals_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/05_unique-email_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/06_jQuery_datepicker_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/01_alert_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/02_if_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/directive.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/03 - routing based on location and ng-include/tpls/users/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/04 - routing basics/tpls/users/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/07 - event handlers/eventHandlers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/08 - custom resource/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/03 - tuning cpu - watchers - expensive computations/expensiveComputation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/02 - display - expressions escaping/expressionsEscaping.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04 - customizing format in a date filter/filterCustomization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/02 - locale and filters/filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/11 - filters - pitfalls - performance/filtersPerf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/12 - filters - pitfalls - stability/filtersStability.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/login/form.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/06 - testing - simple Jasmine test/helloWorld.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/06 - testing - simple Jasmine test/helloWorld.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/05 - tuning cpu - watchers - hidden watchers/hiddenWatches.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/10 - filters - pitfalls - html belongs to directives/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/01- http basics/httpbasics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03 - translations - i18n filter/i18nfilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/01 - hello world/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/02 - hello world with 2 way data binding/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/03 - hello world with a controller/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/04 - hierarchy of scopes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/05 - hierarchy of scopes and inheritance/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/06 - hello world and scopes inheritance surprise/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/06 - hello world and scopes inheritance with $parent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/07 - hello world and scopes inheritance with object/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/08 - DI - module with a controller/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/09 - DI - notifications service as a service and archive as value/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/10 - DI - notifications service as a factory/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/11 - DI - notifications service as a factory with constants/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/12 - DI - notifications service as a provider/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/13 - DI - run blocks - uptime example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/14 - Modules and services - one big bag of services - step 1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/15 - Modules and services - one big bag of services - step 2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/16 - Modules and services - one big bag of services - services override/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/01 - registering providers - module as a variable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/02 - registering providers - getting a module instance/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/03 - registering providers - chaining calls/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/04 - config blocks - as a third argument/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/05 - config blocks - config method/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/01- http basics/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/02 - jsonp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/03 - cors delete/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/06 - q and templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/07 - resource/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/08 - custom resource/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/01 - different directive names/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/02 - display - expressions escaping/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/03 - ngShowHide and ngSwitch/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/04 - repeater - basic syntax/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/05 - repeater - iterating over object properties/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/06 - repeater - list with details patterns/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/07 - event handlers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/08 -filters - array filters full example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/10 - filters - pitfalls - html belongs to directives/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/11 - filters - pitfalls - performance/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/12 - filters - pitfalls - stability/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/01 - ng-model directive (lckIml)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/02 - user edit form (aLpFbD)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/03 - text based input directive (nmbaFj)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/04 - checkbox input directive (H9wMFT)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/05 - radio input directive (Nvu98h)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/06 - simple select directive (gTeyHo)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/07 - complex select directive examples (LQDmOP)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/08 - complex select directive object based examples (mJD27D)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/09 - empty select option (3W1kwP)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/10 - hidden empty option (l9NZMw)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/11 - select and object equivalence (7iORrm)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/12 - validation errors (LGmB4E)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/13 - disabling the save button (4Xt1OL)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/14 - novalidate (JFsrbK)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/15 - shared subforms (V6uDC5)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/16 - repeated forms (YE1z2P)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/17 - validating repeated forms (lxxGBz)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/18 - direct server submission (QRcIOp)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/19 - ng-submit (vDBkHP)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/20 - submit with ng-click (DPWM6Y)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/21 - reset the form (TTTBXe)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/01 - html5 mode config/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/02 - anachorScroll/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/03 - routing based on location and ng-include/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/04 - routing basics/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/02_ngSanitize/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/02_button_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/03_pagination_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/04_validate-equals_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/05_unique-email_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/06_jQuery_datepicker_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/01 - ngLocale and the locale service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/01_alert_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/02_if_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03 - translations - i18n filter/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03_basic_accordion_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04 - customizing format in a date filter/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/01 - inner working - how digest loop works/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/02 - watchers on scope are fired often/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/03 - tuning cpu - watchers - expensive computations/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/04 - tuning cpu - watchers - remove/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/05 - tuning cpu - watchers - hidden watchers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/06 - tuning cpu - loops - timeout and the clock directive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/07 - tuning memory - deep watches/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/08 - tuning memory - size of a watch/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/02 - locale and filters/index_en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/02 - locale and filters/index_fr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/template/input.html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/template/input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/interceptor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/tests/security/interceptor.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/01 - inner working - how digest loop works/internals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jasmine-1.3.0/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jasmine-1.3.0/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jasmine-1.3.0/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-1.8.3/jquery-1.8.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-ui-1.9.2/css/ui-lightness/jquery-ui-1.9.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/02 - jsonp/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/02 - jsonp/jsonp.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/03 - routing based on location and ng-include/tpls/users/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/04 - routing basics/tpls/users/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/06 - repeater - list with details patterns/listAndDetails.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/01 - ngLocale and the locale service/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/01 - html5 mode config/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/03 - routing based on location and ng-include/location_and_include.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/tests/security/login/login-form.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/tests/security/login/login-toolbar.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/login/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/05_unique-email_directive/mock-Users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/03 - routing based on location and ng-include/tpls/users/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/04 - routing basics/tpls/users/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/09 - DI - notifications service as a service and archive as value/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/10 - DI - notifications service as a factory/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/11 - DI - notifications service as a factory with constants/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/12 - DI - notifications service as a provider/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/09 - DI - notifications service as a service and archive as value/notificationsarchive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/01_https_server/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/03_JSON_vulnerability/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/06 - q and templates/promises.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/05 - promise api/promises.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/03_JSON_vulnerability/protectJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/04 - tuning cpu - watchers - remove/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/05 - repeater - iterating over object properties/repeatOverObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/04 - repeater - basic syntax/repeater.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/06 - repeater - list with details patterns/repeater.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/04 - repeater - basic syntax/repeaterBasics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/07 - resource/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/tests/security/retry-queue.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/retryQueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/04 - routing basics/routing_basics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/security.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/tests/security/security.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/template/select.html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/template/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/01 - html5 mode config/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/01_https_server/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/03_JSON_vulnerability/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/04_XSRF/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/07 - complex select directive examples (LQDmOP)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/08 - complex select directive object based examples (mJD27D)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/09 - empty select option (3W1kwP)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/10 - hidden empty option (l9NZMw)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/12 - validation errors (LGmB4E)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/13 - disabling the save button (4Xt1OL)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/15 - shared subforms (V6uDC5)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/16 - repeated forms (YE1z2P)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/17 - validating repeated forms (lxxGBz)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/21 - reset the form (TTTBXe)/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/test-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/04- unit testing with httpBackend mock/test-with-http-backend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/04- unit testing with httpBackend mock/test-with-http-backend.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/06 - testing - simple Jasmine test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/07 - testing - services - a notificationsArchive test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/08 - testing - a controller test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/09 - testing - timeout test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/04- unit testing with httpBackend mock/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/05 - promise api/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/08 -filters - array filters full example/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/09 - filters - accessiong from JavaScript/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/02_button_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/03_pagination_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/04_validate-equals_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/05_unique-email_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/06_jQuery_datepicker_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/01_alert_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/02_if_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/03_basic_accordion_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/01_directive_test_skeleton/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/template/textarea.html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/04_field_directive/template/textarea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/09 - testing - timeout test/timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/09 - testing - timeout test/timeout.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/10 - testing - karma tips and tricks/tips.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/login/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/05_security_module/src/login/toolbar.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/09 - filters - accessiong from JavaScript/trimFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/09 - filters - accessiong from JavaScript/trimFilter.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial.xcube.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/04_XSRF/xsrf.js" />
+    </list>
+    <ignored path="tutorial.xcube.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="6e5aa8a7-8dc2-4a53-8515-74c9cc4516c4" time="1378266057154" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tutorial.xcube.io" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03 - routing based on location and ng-include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02 - anachorScroll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial.xcube.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e5aa8a7-8dc2-4a53-8515-74c9cc4516c4" name="Default" comment="" />
+      <created>1378266040785</created>
+      <updated>1378266040785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24605452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="atlassian-ide-plugin-workspace">
+    <option name="bambooConfiguration">
+      <BambooWorkspaceConfiguration>
+        <option name="view">
+          <BambooViewConfigurationBean />
+        </option>
+      </BambooWorkspaceConfiguration>
+    </option>
+    <option name="defaultCredentials">
+      <UserCfgBean />
+    </option>
+  </component>
+  <component name="atlassian-ide-plugin-workspace-issues">
+    <option name="view">
+      <JiraViewConfigurationBean>
+        <option name="viewFilterId" value="" />
+      </JiraViewConfigurationBean>
+    </option>
+  </component>
+</project>
+
